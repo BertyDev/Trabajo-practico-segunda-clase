@@ -29,6 +29,7 @@ p {
 }
 iframe{
     margin: 2%;
+    border:0;
 }
 
 li {
